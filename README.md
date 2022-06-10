@@ -1,5 +1,8 @@
 ## Olá, me chamo Vinícius Sato ! 
 ### Bem vindo ao meu perfil GitHub 👋
+- 🌱 Atualmente estou aprendendo python
+- 👯 Estou procurando colaborar em projetos
+- 📫 Contate-me no email: vyniciussato@gmail.com
 
 <div>
 <a href="https://github.com/ViniSato">
