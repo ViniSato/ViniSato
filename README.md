@@ -1,4 +1,4 @@
-### Olá! Eu sou o Vnícius Sato 👋
+### Olá! Eu sou o Vinícius Sato 👋
  
 - 🌱 Estudando Python
 - 🖥️ Cursando engenharia da Computação
