@@ -1,6 +1,6 @@
 ## Olá, me chamo Vinícius Sato ! 
 ### Bem vindo ao meu perfil GitHub 👋
-- 🌱 Estudando Python
+- 🌱 Desenvolvedor Full Stack Jr
 - 👯 Estou procurando colaborar em projetos
 - 📫 Contate-me no email: vyniciussato@gmail.com
 
