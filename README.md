@@ -17,4 +17,4 @@
 
 ### 📫 How to contact me:
 - Email: vyniciussato@gmail.com 📧
-- LinkedIn: [Vinícius Sato](www.linkedin.com/in/vinícius-sato-de-oliveira/) 💼
+- LinkedIn: [Vinícius Sato](www.linkedin.com/in/vinícius-sato-de-oliveira) 💼
